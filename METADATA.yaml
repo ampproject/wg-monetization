@@ -1,0 +1,23 @@
+title: Ads
+description: Responsible for ads features and integrations in AMP.
+facilitator:
+  login: lannka
+  name: Hongfei Ding
+members:
+  - login: calebcordry
+    name: Caleb Cordry
+  - login: powerivq
+    name: Shihua Zheng
+  - login: zhouyx
+    name: Yuxuan Zhou
+communication:
+  - channel: slack
+    name: Slack
+    content:
+      - item: "The Ads Working Group members will use `#wg-ads` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in Ads working group."
+  - channel: github
+    name: GitHub
+    content:
+      - item: "Ads Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
+      - item: "Ads Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository."
+      - item: "Ads Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository."
